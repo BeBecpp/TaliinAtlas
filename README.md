@@ -3,7 +3,7 @@
 > **Turn confusion into a map.**  
 > TaliinAtlas transforms messy topics, notes, and learning goals into an explorable visual knowledge world where users learn concepts step by step.
 
-![TaliinAtlas Banner](./public/taliin-atlas-banner.png)
+![TaliinAtlas Banner](logo.png)
 
 ---
 

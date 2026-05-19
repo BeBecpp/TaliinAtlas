@@ -1,0 +1,104 @@
+{
+  "generatedAt": "2026-05-19T14:54:40.217Z",
+  "modelVersion": "0.1.0",
+  "trainingExampleCount": 140,
+  "vocabularySize": 785,
+  "evaluation": {
+    "accuracy": 1,
+    "top2Accuracy": 1,
+    "categoryMetrics": {
+      "react": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "javascript-async": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "git": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "database": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "programming-basics": {
+        "support": 2,
+        "correct": 2,
+        "precision": 1,
+        "recall": 1
+      },
+      "web-development": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "algorithms": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "system-design-basics": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "study-generic": {
+        "support": 3,
+        "correct": 3,
+        "precision": 1,
+        "recall": 1
+      },
+      "math-basics": {
+        "support": 2,
+        "correct": 2,
+        "precision": 1,
+        "recall": 1
+      }
+    },
+    "confusionMatrix": {
+      "react": {
+        "react": 3
+      },
+      "javascript-async": {
+        "javascript-async": 3
+      },
+      "git": {
+        "git": 3
+      },
+      "database": {
+        "database": 3
+      },
+      "programming-basics": {
+        "programming-basics": 2
+      },
+      "web-development": {
+        "web-development": 3
+      },
+      "algorithms": {
+        "algorithms": 3
+      },
+      "system-design-basics": {
+        "system-design-basics": 3
+      },
+      "study-generic": {
+        "study-generic": 3
+      },
+      "math-basics": {
+        "math-basics": 2
+      }
+    }
+  }
+}

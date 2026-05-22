@@ -129,3 +129,49 @@ Instead of asking, “What should I study next?”, the user can see a map and f
 ```bash
 npm install
 npm run dev
+
+Open the local development URL:
+
+http://localhost:3000
+
+```
+
+Build for production:
+
+npm run build
+npm start
+Project Structure
+src/
+  app/              Next.js app routes
+  components/       UI and learning map components
+  lib/              generation, storage, and utility logic
+  types/            TypeScript types
+  data/             sample learning map data
+public/
+  screenshots/      project screenshots
+What I Learned
+
+While building TaliinAtlas, I learned more about turning a product idea into an interactive user experience.
+
+The hardest parts were:
+
+designing a visual learning flow
+thinking about concept dependencies
+making the UI feel understandable
+turning messy topics into structured nodes
+balancing AI-style generation with user control
+designing progress and unlock states
+
+This project helped me understand that good AI tools should not only generate text.
+They should help users think, organize, and make progress.
+
+Future Improvements
+Real AI model integration
+Better topic decomposition
+User accounts and cloud sync
+More advanced quiz generation
+Better progress analytics
+Public shareable learning maps
+Mobile layout improvements
+More visual themes
+Export learning maps as PDF or image
